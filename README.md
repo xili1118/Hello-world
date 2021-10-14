@@ -1,2 +1,3 @@
 # Hello-world
-My first repository!
+
+[Our intro](introduction.md)
